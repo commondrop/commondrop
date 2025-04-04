@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aiden</h1>
-[Portfolio Website]https://commondrop.github.io/AidensFinalPortfolio/
+<a href="https://commondrop.github.io/AidensFinalPortfolio/" target="_blank">Portfolio Website</a>
 <p>A passionate frontend developer from Arizona</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
