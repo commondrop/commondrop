@@ -4,7 +4,7 @@
 
 <p>🛜currently working on my own <a href="https://commondrop.github.io/AidensFinalPortfolio/" target="_blank">Webpage</a></p>
 <p>🧑🏽‍🎓studying computer information systems at Eastern Arizona College</p>
-<p>👨🏽‍💻working as a web developer since 2023</p>
+<p>👨🏽‍💻working as a web developer since 2024</p>
 
 ###
 
@@ -12,8 +12,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
