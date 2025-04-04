@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, I'm Aiden, a Web Developer from Arizona</h2>
+<h2 align="left">Hello World!, I'm Aiden, a Web Developer from Arizona👋:</h2>
 
 ###
 
