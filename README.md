@@ -1,13 +1,14 @@
-<h2 align="left">Hi 👋! My name is Aiden and I'm a web developer from Arizona</h2>
+<h2 align="left">Hello World!, I'm Aiden, a Web Developer from Arizona</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=commondrop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=commondrop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p>🛜currently working on my own <a href="https://commondrop.github.io/AidensFinalPortfolio/" target="_blank">Webpage</a></p>
+<p>🧑🏽‍🎓studying computer information systems at Eastern Arizona College</p>
+<p>👨🏽‍💻working as a web developer since 2023</p>
 
 ###
+
+<h2>💻Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,6 +28,7 @@
 
 ###
 
+<h2>📲Contact</h2>
 <div align="left">
   <a href="mailto:aidenwright2903@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
