@@ -3,7 +3,7 @@
 ###
 
 <p>🛜currently working on my own <a href="https://commondrop.github.io/AidensFinalPortfolio/" target="_blank">Webpage</a></p>
-<p>🧑🏽‍🎓studying computer information systems at Eastern Arizona College</p>
+<p>🧑🏽‍🎓studying computer information specialist at Eastern Arizona College</p>
 <p>👨🏽‍💻working as a web developer since 2024</p>
 
 ###
